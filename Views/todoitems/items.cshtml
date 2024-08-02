@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Task List</title>
+    <link rel="stylesheet" href="~/Content/bootstrap.min.css" />
+    <script>
+        function confirmDelete(itemId) {
+            if (confirm("Are you sure you want to delete this item?")) {
+                window.location.href = '/todoitems/Delete?id=' + itemId;
+            }
+        }
+    </script>
+</head>
+<body>
+
+    <a href="/todoitems/createnew" class="btn btn-primary">Create New</a>
+    <div class="container">
+        <h2>Task List</h2>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    
+                    <th>Title</th>
+                    <th>Description</th>
+                    <th>Deadline</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        
+                        <td>@item.Title</td>
+                        <td>@item.Description</td>
+                        <td>@item.Deadline.ToString("MM/dd/yyyy")</td>
+                        <td>
+                            <div class="btn-group">
+                                <a href="#" class="btn btn-primary active" aria-current="page">Handle your list</a>
+                                <a href="/todoitems/Edit?id=@item.Id" class="btn btn-primary">Edit</a>
+                                <a href="javascript:void(0);" onclick="confirmDelete(@item.Id);" class="btn btn-primary">Delete</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

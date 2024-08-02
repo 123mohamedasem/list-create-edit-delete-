@@ -1,0 +1,137 @@
+E:\list item\bin\Debug\net8.0\appsettings.Development.json
+E:\list item\bin\Debug\net8.0\appsettings.json
+E:\list item\bin\Debug\net8.0\list item.staticwebassets.runtime.json
+E:\list item\bin\Debug\net8.0\list item.exe
+E:\list item\bin\Debug\net8.0\list item.deps.json
+E:\list item\bin\Debug\net8.0\list item.runtimeconfig.json
+E:\list item\bin\Debug\net8.0\list item.dll
+E:\list item\bin\Debug\net8.0\list item.pdb
+E:\list item\obj\Debug\net8.0\list item.GeneratedMSBuildEditorConfig.editorconfig
+E:\list item\obj\Debug\net8.0\list item.AssemblyInfoInputs.cache
+E:\list item\obj\Debug\net8.0\list item.AssemblyInfo.cs
+E:\list item\obj\Debug\net8.0\list item.csproj.CoreCompileInputs.cache
+E:\list item\obj\Debug\net8.0\list item.MvcApplicationPartsAssemblyInfo.cache
+E:\list item\obj\Debug\net8.0\list item.RazorAssemblyInfo.cache
+E:\list item\obj\Debug\net8.0\list item.RazorAssemblyInfo.cs
+E:\list item\obj\Debug\net8.0\staticwebassets.build.json
+E:\list item\obj\Debug\net8.0\staticwebassets.development.json
+E:\list item\obj\Debug\net8.0\staticwebassets\msbuild.list item.Microsoft.AspNetCore.StaticWebAssets.props
+E:\list item\obj\Debug\net8.0\staticwebassets\msbuild.build.list item.props
+E:\list item\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.list item.props
+E:\list item\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.list item.props
+E:\list item\obj\Debug\net8.0\staticwebassets.pack.json
+E:\list item\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\list item\obj\Debug\net8.0\scopedcss\bundle\list item.styles.css
+E:\list item\obj\Debug\net8.0\scopedcss\projectbundle\list item.bundle.scp.css
+E:\list item\obj\Debug\net8.0\list item.dll
+E:\list item\obj\Debug\net8.0\refint\list item.dll
+E:\list item\obj\Debug\net8.0\list item.pdb
+E:\list item\obj\Debug\net8.0\list item.genruntimeconfig.cache
+E:\list item\obj\Debug\net8.0\ref\list item.dll
+E:\list item\bin\Debug\net8.0\Azure.Core.dll
+E:\list item\bin\Debug\net8.0\Azure.Identity.dll
+E:\list item\bin\Debug\net8.0\Humanizer.dll
+E:\list item\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\list item\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\list item\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\list item\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\list item\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\list item\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\list item\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\list item\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\list item\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\list item\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\list item\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\list item\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\list item\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\list item\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\list item\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\list item\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\list item\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\list item\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\list item\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\list item\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\list item\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\list item\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\list item\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\list item\bin\Debug\net8.0\System.CodeDom.dll
+E:\list item\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\list item\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\list item\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\list item\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\list item\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\list item\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\list item\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\list item\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\list item\bin\Debug\net8.0\System.Memory.Data.dll
+E:\list item\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\list item\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\list item\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\list item\bin\Debug\net8.0\System.Text.Json.dll
+E:\list item\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\list item\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\list item\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\list item\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\list item\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\list item\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\list item\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\list item\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\list item\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\list item\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\list item\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\list item\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\list item\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\list item\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\list item\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\list item\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\list item\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\list item\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\list item\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\list item\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\list item\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\list item\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\list item\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\list item\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\list item\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\list item\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\list item\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\list item\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\list item\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\list item\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\list item\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\list item\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\list item\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\list item\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\list item\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\list item\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\list item\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\list item\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\list item\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\list item\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\list item\obj\Debug\net8.0\list item.csproj.AssemblyReference.cache
+E:\list item\obj\Debug\net8.0\list item.csproj.Up2Date

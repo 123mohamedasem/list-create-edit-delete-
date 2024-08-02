@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\list item\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2779C4-A722-4E6E-9515-B8C2DA82B07C}|list item.csproj|e:\\list item\\views\\todoitems\\items.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F2779C4-A722-4E6E-9515-B8C2DA82B07C}|list item.csproj|solutionrelative:views\\todoitems\\items.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2779C4-A722-4E6E-9515-B8C2DA82B07C}|list item.csproj|e:\\list item\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2779C4-A722-4E6E-9515-B8C2DA82B07C}|list item.csproj|solutionrelative:controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2779C4-A722-4E6E-9515-B8C2DA82B07C}|list item.csproj|e:\\list item\\views\\todoitems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F2779C4-A722-4E6E-9515-B8C2DA82B07C}|list item.csproj|solutionrelative:views\\todoitems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2779C4-A722-4E6E-9515-B8C2DA82B07C}|list item.csproj|e:\\list item\\views\\todoitems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F2779C4-A722-4E6E-9515-B8C2DA82B07C}|list item.csproj|solutionrelative:views\\todoitems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2779C4-A722-4E6E-9515-B8C2DA82B07C}|list item.csproj|e:\\list item\\views\\todoitems\\createnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F2779C4-A722-4E6E-9515-B8C2DA82B07C}|list item.csproj|solutionrelative:views\\todoitems\\createnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./item/True/SqlTable/dbo.lists.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2779C4-A722-4E6E-9515-B8C2DA82B07C}|list item.csproj|e:\\list item\\models\\tasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2779C4-A722-4E6E-9515-B8C2DA82B07C}|list item.csproj|solutionrelative:models\\tasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2779C4-A722-4E6E-9515-B8C2DA82B07C}|list item.csproj|e:\\list item\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2779C4-A722-4E6E-9515-B8C2DA82B07C}|list item.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2779C4-A722-4E6E-9515-B8C2DA82B07C}|list item.csproj|e:\\list item\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F2779C4-A722-4E6E-9515-B8C2DA82B07C}|list item.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2779C4-A722-4E6E-9515-B8C2DA82B07C}|list item.csproj|e:\\list item\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2779C4-A722-4E6E-9515-B8C2DA82B07C}|list item.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2779C4-A722-4E6E-9515-B8C2DA82B07C}|list item.csproj|e:\\list item\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2779C4-A722-4E6E-9515-B8C2DA82B07C}|list item.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2779C4-A722-4E6E-9515-B8C2DA82B07C}|list item.csproj|e:\\list item\\migrations\\20240801205810_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2779C4-A722-4E6E-9515-B8C2DA82B07C}|list item.csproj|solutionrelative:migrations\\20240801205810_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2779C4-A722-4E6E-9515-B8C2DA82B07C}|list item.csproj|e:\\list item\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F2779C4-A722-4E6E-9515-B8C2DA82B07C}|list item.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\list item\\Views\\todoitems\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\todoitems\\Edit.cshtml",
+              "ToolTip": "E:\\list item\\Views\\todoitems\\Edit.cshtml",
+              "RelativeToolTip": "Views\\todoitems\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T11:51:00.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "todoitemsController.cs",
+              "DocumentMoniker": "E:\\list item\\Controllers\\todoitemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\todoitemsController.cs",
+              "ToolTip": "E:\\list item\\Controllers\\todoitemsController.cs",
+              "RelativeToolTip": "Controllers\\todoitemsController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAQwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T22:20:39.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "items.cshtml",
+              "DocumentMoniker": "E:\\list item\\Views\\todoitems\\items.cshtml",
+              "RelativeDocumentMoniker": "Views\\todoitems\\items.cshtml",
+              "ToolTip": "E:\\list item\\Views\\todoitems\\items.cshtml",
+              "RelativeToolTip": "Views\\todoitems\\items.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T05:43:52.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "createnew.cshtml",
+              "DocumentMoniker": "E:\\list item\\Views\\todoitems\\createnew.cshtml",
+              "RelativeDocumentMoniker": "Views\\todoitems\\createnew.cshtml",
+              "ToolTip": "E:\\list item\\Views\\todoitems\\createnew.cshtml",
+              "RelativeToolTip": "Views\\todoitems\\createnew.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T07:48:16.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "E:\\list item\\Views\\todoitems\\create.cshtml",
+              "RelativeDocumentMoniker": "Views\\todoitems\\create.cshtml",
+              "ToolTip": "E:\\list item\\Views\\todoitems\\create.cshtml",
+              "RelativeToolTip": "Views\\todoitems\\create.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T22:31:52.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.lists [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./item/True/SqlTable/dbo.lists.sql",
+              "ToolTip": "dbo.lists [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-02T12:18:31.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tasklist.cs",
+              "DocumentMoniker": "E:\\list item\\Models\\tasklist.cs",
+              "RelativeDocumentMoniker": "Models\\tasklist.cs",
+              "ToolTip": "E:\\list item\\Models\\tasklist.cs",
+              "RelativeToolTip": "Models\\tasklist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T20:49:16.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbcontext.cs",
+              "DocumentMoniker": "E:\\list item\\Data\\ApplicationDbcontext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbcontext.cs",
+              "ToolTip": "E:\\list item\\Data\\ApplicationDbcontext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:42:45.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\list item\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\list item\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T21:09:19.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\list item\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\list item\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:11:17.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\list item\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\list item\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:43:11.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240801205810_intialcreate.cs",
+              "DocumentMoniker": "E:\\list item\\Migrations\\20240801205810_intialcreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240801205810_intialcreate.cs",
+              "ToolTip": "E:\\list item\\Migrations\\20240801205810_intialcreate.cs",
+              "RelativeToolTip": "Migrations\\20240801205810_intialcreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T20:58:10.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\list item\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\list item\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T20:26:35.818Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+﻿<form action="/todoitems/saveedit" method="post" >
+    <input type="hidden" name="Id" value="@Model.Id"/>
+    <div class="mb-3">
+        <label for="Title" class="form-label">new title</label>
+        <input type="text" name="title" value="@Model.Title" class="form-control" id="Title">
+
+    </div>
+
+    <div class="mb-3">
+        <label for="Description" class="form-label">new deacription</label>
+        <input type="text" name="description" value="@Model.Description" class="form-control" id="Description">
+
+    </div>
+
+    <div class="mb-3">
+        <label for="Deadline" class="form-label">new Deadline</label>
+        <input type="date" name="deadline" value="@Model.Deadline" class="form-control" id="Deadline">
+
+    </div>
+
+
+
+    <button type="submit" class="btn btn-primary">save changes</button>
+</form>
